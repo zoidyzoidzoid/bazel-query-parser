@@ -1,3 +1,9 @@
+# ARCHIVED
+
+Take a look at [biff](https://github.com/purkhusid/biff) instead
+
+# ARCHIVED
+
 # Bazel Query Protobuf Output Parser
 
 Golang attempt at https://gist.github.com/purkhusid/ad7cc87ad98548a1c5f6a9c999dda5ee
